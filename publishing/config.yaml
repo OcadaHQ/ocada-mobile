@@ -1,0 +1,61 @@
+publisher:
+  name: Ocada
+  address: 14KVyq1nqQ2oHVy4hYD6RqhxTeMAXRBqEaDtuwokW93t
+  website: https://ocada.ai
+  email: hello@ocada.ai
+  media:
+    - purpose: icon
+      uri: ../assets/icon-solana.png
+app:
+  name: Ocada AI Agent
+  address: GsHZRGHU2KvbuWxbQNgCJTQCJXV3pNoS3bdsZYgGcVep
+  android_package: app.snips
+  urls:
+    license_url: https://api.ocada.ai/static/policies/terms.html
+    copyright_url: https://api.ocada.ai/static/policies/terms.html
+    privacy_policy_url: https://api.ocada.ai/static/policies/privacy.html
+    website: https://ocada.ai
+  media:
+    - purpose: icon
+      uri: ../assets/icon-solana.png
+release:
+  address: 4xzbJQAGCmUhuhkHA48CH8F2mkePjBe46EwBLHc7a2wK
+  media:
+    - purpose: icon
+      uri: ../assets/icon-solana.png
+    - purpose: screenshot
+      uri: ../assets/screenshots/1.jpg
+    - purpose: screenshot
+      uri: ../assets/screenshots/2.jpg
+    - purpose: screenshot
+      uri: ../assets/screenshots/3.jpg
+    - purpose: screenshot
+      uri: ../assets/screenshots/4.jpg
+    - purpose: screenshot
+      uri: ../assets/screenshots/5.jpg
+    - purpose: screenshot
+      uri: ../assets/screenshots/6.jpg
+  files:
+    - purpose: install
+      uri: ../solana-build/ocada-v1.32.0-signed.apk
+  catalog:
+    en-US:
+      name: Ocada AI Agent
+      short_description: Explore and analyze markets
+      long_description: |
+        Ocada is an investing copilot powered by AI.
+        Using Ocada, you can track key tokens in the Solana ecosystem and trade them in your virtual portfolio.
+        Ocada makes it easy to figure out meme coins like PEPE and WIF while helping your risk management.
+        --
+        Thank you to AomAm and Freepik from Flaticon for designing the characters and other beautiful visuals in Ocada!
+      new_in_version: Ocada AI released to Solana Mobile
+      saga_features: ''
+solana_mobile_dapp_publisher_portal:
+  google_store_package: app.snips
+  testing_instructions: ''
+lastSubmittedVersionOnChain:
+  address: 4xzbJQAGCmUhuhkHA48CH8F2mkePjBe46EwBLHc7a2wK
+  version_code: 101
+  apk_hash: b+TA2Guhni8+T+dAbnbmAKuY4XmkgP6VED+hH6OJ5tI=
+lastUpdatedVersionOnStore:
+  address: 4xzbJQAGCmUhuhkHA48CH8F2mkePjBe46EwBLHc7a2wK

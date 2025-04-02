@@ -1,0 +1,49 @@
+{
+  "assets": {
+    "../assets/icon-solana.png": {
+      "path": "../assets/icon-solana.png",
+      "sha256": "nI7XZhYOcA4SF58qS8QD7+OYiU7Q8fvpKFCsxEgUbAA=",
+      "uri": "https://arweave.net/6yOUF2UHqqE-fqTYrM0c4FhoFAkG2v6V_7QQlt1-bxY"
+    },
+    "../assets/screenshots/3.jpg": {
+      "path": "../assets/screenshots/3.jpg",
+      "sha256": "/7aYdZMaObtGWA64o+Sz9CTycqydIDZDCamurtRR+yc=",
+      "uri": "https://arweave.net/MR8i3JpS_hTr1tDYCWn8SXnHCVusb98Mc3902m0o7Lg"
+    },
+    "../assets/screenshots/2.jpg": {
+      "path": "../assets/screenshots/2.jpg",
+      "sha256": "ZcK/ZfopSLPemCMZugKUUCC2gdO6rQk+AXi1h7JCcpg=",
+      "uri": "https://arweave.net/bdAPRSlKayvnxhzVYdETKLHqzFTWtNIiyxJ-TR_mLwU"
+    },
+    "../assets/screenshots/6.jpg": {
+      "path": "../assets/screenshots/6.jpg",
+      "sha256": "qaOpa3v2MycgS465FmN9GuKeYqr1dNU6fD7KUV6GmBI=",
+      "uri": "https://arweave.net/9hT5qrcJZEW3oU6zjpusLK6d26ldren-o6xa3jfrJU4"
+    },
+    "../assets/screenshots/5.jpg": {
+      "path": "../assets/screenshots/5.jpg",
+      "sha256": "2ZF47ylexww1+DIRNjztPN57kPrxS49QxDPZjJ65e9o=",
+      "uri": "https://arweave.net/sMBARQ49RS3DFgn7kmNo1elS5eJOXPAiLY1LjJjRFBQ"
+    },
+    "../assets/screenshots/4.jpg": {
+      "path": "../assets/screenshots/4.jpg",
+      "sha256": "kuyPARHd4VIv8Sx1DGC4TNz6UV+U7TwaDUD3d5w/C6c=",
+      "uri": "https://arweave.net/nEPMbZDT0ULSjhTWyisyYTdmDD1LZkKaSt82lKyAY_4"
+    },
+    "../assets/screenshots/1.jpg": {
+      "path": "../assets/screenshots/1.jpg",
+      "sha256": "BmhLsuciRzOUsdZZ1s3pWUGfBZi1x+ZczeIUxIqbJhI=",
+      "uri": "https://arweave.net/DuBX5JW0OnEI-PmB57C3W6mqfxJkeEOgWZoyjUMIenU"
+    },
+    "../solana-build/ocada-v1.31.0-signed.apk": {
+      "path": "../solana-build/ocada-v1.31.0-signed.apk",
+      "sha256": "9PNyhn46UeQOBYxR70I8x8H5pJ2vq+nMxWLldA43TAM=",
+      "uri": "https://arweave.net/2eYaFYQYgoXRXzfRuRffzxz6aYsC6rmjP25MFWDlmi4"
+    },
+    "../solana-build/ocada-v1.32.0-signed.apk": {
+      "path": "../solana-build/ocada-v1.32.0-signed.apk",
+      "sha256": "b+TA2Guhni8+T+dAbnbmAKuY4XmkgP6VED+hH6OJ5tI=",
+      "uri": "https://arweave.net/qtJuN0kHri8B8BPzWh45qJnP9BgEUt1EZHxRi9bODBo"
+    }
+  }
+}
